@@ -1,0 +1,164 @@
+
+body{
+    background: linear-gradient(to left, dimgray 70%, lightgrey 0%) ; 
+}
+
+.changeableinfo{
+    text-align: center;
+    font-size: 12px;
+    line-height: 2.5px;
+}
+
+.fixedinformation{
+    margin-top: 70px;
+    margin-left: 370px;
+    margin-right: 300px;
+    border-radius: 10px;
+    background: white;
+    margin-bottom: 70px;
+    box-shadow: 10px 10px black;
+}
+.line1{
+    margin-top: -17px;
+    border: 1px solid black;
+    margin-right: 50px;
+    margin-left: 40px;
+}
+
+
+.eduSub{
+    margin-left: 40px;
+
+    margin-top: -25px;
+    display: flex;
+    line-height: 1.0px;
+}
+.sub2{
+    margin-left: 400px;
+}
+.eduSub2{
+    margin-left: 40px;
+    display: flex;
+    line-height: 1.1px;
+    margin-top: -15px;
+}
+
+.sub4{
+    margin-left: 370px;
+    line-height: 1.1px;
+}
+
+.eduSub3{
+    margin-left: 40px;
+    margin-top: -9px;
+    display: flex;
+    font-size: 14px;
+}
+
+.achievements{
+    line-height: 1.1px;
+}
+
+.workSub1{
+    margin-left: 40px;
+    display: flex;
+    margin-top: -30px;
+}
+
+.loc1{
+    margin-left: 370px;
+}
+
+.infowork1{
+    margin-left: 40px;
+    margin-top: -47px;
+}
+
+.workSub2{
+    margin-left: 40px;
+    display: flex;
+    margin-top: -19px;
+}
+
+.loc2{
+    margin-left: 450px;
+}
+.infowork2{
+    margin-left: 40px;
+    margin-top: -47px;
+}
+
+.workSub3{
+    margin-left: 40px;
+    display: flex;
+    margin-top: -19px;
+}
+.loc3{
+    margin-left: 298px;
+}
+.infowork3{
+    margin-left: 40px;
+    margin-top: -47px;
+}
+
+.skills1{
+    margin-left: 40px;
+    line-height: 1.2px;
+    font-size: 15px;
+    margin-bottom: 38px;
+}
+
+.curricular{
+    margin-top: 13px;
+    line-height: 2px;
+    margin-bottom: 35px;
+}
+
+.references{
+    line-height: 2px;
+}
+
+.line2{
+    margin-left: 40px;
+    margin-top: -19px;
+    margin-bottom: 18px;
+    border: 1px solid black;
+    margin-right: 50px;
+}
+.line3{
+    margin-left: 40px;
+    margin-top: -12px;
+    border: 1px solid black;
+    margin-right: 50px;
+}
+.line4{
+    margin-left: 40px;
+    margin-top: -19px;
+    margin-bottom: 18px;
+    border: 1px solid black;
+    margin-right: 50px;
+}
+.line5{
+    margin-left: 40px;
+    margin-top: -17px;
+    border: 1px solid black;
+    margin-right: 50px;
+}
+.line6{
+    margin-left: 40px;
+    margin-top: -12px;
+    border: 1px solid black;
+    margin-right: 50px;
+}
+.line7{
+    margin-left: 40px;
+    margin-top: -12px;
+    border: 1px solid black;
+    margin-right: 50px;
+}
+
+.copyright{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 13px;
+}

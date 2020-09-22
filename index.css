@@ -1,0 +1,91 @@
+body{
+    background: linear-gradient(to bottom, azure 30%, rgb(211, 32, 32) 0%) ; 
+    height: 100vh;
+    
+}
+.intro{
+    margin-top: 53px;
+    margin-left: 400px;
+    line-height: 3.6px;
+}
+.intro >p{
+    margin-left: 50px;
+}
+
+
+.emptyBox{
+    text-decoration: black;
+    margin-top: 0px;
+    font-size: medium;
+    background: white;
+    margin-right: 130px;
+    margin-left: 80px;
+    /* box-shadow: 2px 2px black ; */
+}
+
+.image{
+    margin-left: 150px;
+    margin-right: 800px;
+    margin-top: -300px;
+}
+
+.name{
+    display: flex;
+    margin-left: 600px;
+    margin-top: 100px;
+}
+.entryOne{
+    margin-right: 130px;
+    width: 90px;
+}
+.entryTwo{
+    margin-right: 70px;
+    width: 150px;
+}
+.entryThree{
+    width: 150px;
+}
+
+.secondlane{
+    display: flex;
+    margin-left: 600px;
+    margin-top: 50px;
+}
+.entryFour{
+    margin-right: 70px;
+    width: 150px;
+}
+.entryFive{
+    margin-right: 40px;
+    width: 150px;
+}
+
+.thirdlane{
+    display: flex;
+    margin-left: 600px;
+    margin-top: 50px;
+}
+.entrySix{
+    margin-right: 70px;
+    width: 150px;
+}
+.entryseven{
+    margin-right: 40px;
+    width: 150px;
+}
+
+.buttons >button{
+    margin-left: 600px;
+    margin-top: 50px;
+    background: crimson;
+    color: white;
+    font-size: medium;
+    border-radius: 15px;
+    border: 12px solid transparent;
+}
+
+.agreement{
+    margin-left: 180px;
+    text-align: center;
+    margin-top: 20px;
+}
